@@ -13,7 +13,7 @@ public class main {
         DayTwo.ProblemTwo.run();
         System.out.println("****************************************************");
         //Advent Day Three
-        
+        DayThree.ProblemOne.run();
 
     }
 
