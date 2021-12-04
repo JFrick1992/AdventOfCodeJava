@@ -14,6 +14,8 @@ public class main {
         System.out.println("****************************************************");
         //Advent Day Three
         DayThree.ProblemOne.run();
+        System.out.println("****************************************************");
+        new DayThree.ProblemTwo().run();
 
     }
 

@@ -29,6 +29,7 @@ public class ProblemOne {
                 epsilonString += "1";
             }
         }
+        System.out.println(gammaString);
         int gamma = Integer.parseInt(gammaString, 2);
         int epsilon = Integer.parseInt(epsilonString, 2);
         int power = gamma * epsilon;
